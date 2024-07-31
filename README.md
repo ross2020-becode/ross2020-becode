@@ -1,5 +1,3 @@
-## Hi there 👋
-
 - 🔭 I’m currently working on InnovaLogic
 - 🌱 I’m currently learning php
 - 👯 I’m looking to collaborate on projects personal
